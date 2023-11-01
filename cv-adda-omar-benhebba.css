@@ -1,0 +1,22 @@
+
+* {
+    font-family: Avenir, sans-serif; 
+    color: white; 
+    padding: 0px;
+    margin: 0px; 
+    box-sizing: border-box; 
+}
+body {
+    background: url("image/fondjour.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+p {
+    font-size: 1em; 
+    line-height: 1.5em; 
+}
+a {
+    text-decoration: none; 
+    color: rgb(255, 255, 255); 
+}
